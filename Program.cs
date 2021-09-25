@@ -9,7 +9,7 @@ namespace AreaTrianguloRet
             double valorBase, valorAltura, valorArea;
             Console.WriteLine("\n-Area do Triangulo Retangulo-");
             Console.ForegroundColor = ConsoleColor.DarkGray;
-            Console.Write("\nBase: ");
+            Console.Write("\nBase:   ");
             valorBase = Convert.ToDouble(Console.ReadLine());
 
             Console.ForegroundColor = ConsoleColor.DarkMagenta;
